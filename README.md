@@ -1,2 +1,2 @@
-# microservices-python
-Repository template for a microservice in Python
+# python-template
+Repository template for a Python project
